@@ -1,0 +1,7 @@
+0 buffalo
+1 deer
+2 elephant
+3 pigeon
+4 rabbit
+5 sheep
+6 neutral
